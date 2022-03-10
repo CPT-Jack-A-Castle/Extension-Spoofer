@@ -3,7 +3,7 @@ A cool python exploit to spoof your payload into another extension like pdf, doc
 
 # Installation
 All you need is python 3.6 and +
-https://python.org
+
 
 # Preview
 ![image](https://cdn.discordapp.com/attachments/938247228609409087/951614905050619964/spoofer.png)
